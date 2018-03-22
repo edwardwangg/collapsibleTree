@@ -9,11 +9,12 @@
 
 .collapsibleTree .node text {
   font: 10px sans-serif;
+  font-family: Comic Sans MS;
 }
 
 .collapsibleTree .link {
   fill: none;
-  stroke: #ccc;
+  stroke: #ff6ff;
   stroke-width: 1.5px;
 }
 
