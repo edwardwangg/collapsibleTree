@@ -8,8 +8,8 @@
 }
 
 .collapsibleTree .node text {
-  font: 10px sans-serif;
-  font-family: Comic Sans MS;
+  font: 12px sans-serif;
+  font-family: Arial;
 }
 
 .collapsibleTree .link {
